@@ -19,6 +19,7 @@ rules:
     verbs:
       - update
       - get
+      - patch
       - watch
       - list
 ---
